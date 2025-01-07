@@ -12,21 +12,6 @@ Web Developer and WordPress Developer with over **7 years** of experience in bui
 - **Performance & Optimization** – WordPress troubleshooting, speed improvements  
 - **Collaboration** – Working in cross-functional teams with designers, QA, and marketing  
 
-## 💼 Professional Experience
-
-### **WordPress Developer (Remote)**
-📍 *Leading Marketing Agency | Boston, MA*  
-📅 *2021 – 2024*
-- Managed support and development for a portfolio of **WordPress websites**
-- Delivered **custom solutions** to improve website performance and functionality
-- Played a key role in **client support, QA, and feature implementation**
-- Resolved complex **WordPress troubleshooting** and debugging issues
-
-### **Freelance WordPress & Frontend Developer**
-📅 *2017 – 2021*
-- Built and maintained **WordPress websites** from concept to launch  
-- Provided ongoing **support and optimization** for multiple projects  
-
 ## 🎯 Career Goals
 - **Senior WordPress Developer / Team Leader** role  
 - **Frontend Developer** position (React/Next.js stack)  
